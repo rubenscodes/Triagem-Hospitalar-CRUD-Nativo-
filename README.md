@@ -1,10 +1,10 @@
-# 🏥 Sistema de Triagem Hospitalar (CRUD Nativo)
+# Sistema de Triagem Hospitalar (CRUD Nativo)
 
 Um sistema desktop para gerenciamento e triagem de fluxo de pacientes em hospitais. O projeto utiliza interface gráfica amigável em caixas de diálogo e persistência de dados local de forma nativa.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 O sistema conta com um fluxo completo de **CRUD** através de um menu interativo:
 - **Cadastrar Paciente (Create):** Captura nome, CPF, idade, sintomas e define o nível de prioridade (1 a 5), salvando diretamente no arquivo de texto.
@@ -14,7 +14,7 @@ O sistema conta com um fluxo completo de **CRUD** através de um menu interativo
 
 ---
 
-## 🛠️ Tecnologias e Arquitetura
+##  Tecnologias e Arquitetura
 
 - **Linguagem:** Java 8+
 - **Interface Gráfica:** `javax.swing.JOptionPane`
@@ -23,7 +23,7 @@ O sistema conta com um fluxo completo de **CRUD** através de um menu interativo
 
 ---
 
-## 💻 Como rodar o projeto
+## Como rodar o projeto
 
 1. Baixe ou clone este repositório na sua máquina:
    ```bash
