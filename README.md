@@ -31,7 +31,7 @@ O sistema possui um fluxo completo de gerenciamento de pacientes baseado nas qua
 | Update | Atualizar dados | Permite localizar um paciente pelo CPF e editar suas informações. |
 | Delete | Remover paciente | Remove o registro após atendimento ou alta. |
 
-### 📋 Informações dos pacientes
+###  Informações dos pacientes
 
 Cada cadastro contém:
 
@@ -101,7 +101,7 @@ cd SEU_REPOSITORIO
 
 > Observação: substitua o nome da classe principal conforme a estrutura real do projeto.
 
-## 📚 Conhecimentos aplicados
+##  Conhecimentos aplicados
 
 Durante o desenvolvimento, foram trabalhados conceitos importantes da programação:
 
@@ -114,7 +114,7 @@ Durante o desenvolvimento, foram trabalhados conceitos importantes da programaç
 - Estruturas condicionais e de repetição;
 - Tratamento e validação de dados.
 
-## 🎓 Contexto acadêmico
+##  Contexto acadêmico
 
 Projeto desenvolvido no curso de **Análise e Desenvolvimento de Sistemas (ADS)**, com finalidade educacional e aplicação prática dos conhecimentos adquiridos durante a graduação.
 
